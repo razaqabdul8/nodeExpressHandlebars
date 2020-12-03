@@ -4,7 +4,6 @@ This is a restaurant app that lets users input the names of burgers they'd like 
 # Node Express Handlebars
 
 ### Overview
-[Find My Repository](https://github.com/iggy788/burger "Mike's Repository")
 
 I have built an application meant to log your burgers with MySQL, Node, Express, Handlebars and a homemade ORM. The app design pattern follows a MVC structure; using Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
 
